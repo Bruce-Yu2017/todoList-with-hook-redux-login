@@ -1,0 +1,25 @@
+.userForm {
+    width: 41vw;
+    display: grid;
+    margin: 0 auto;
+    margin-top: 63px;
+}
+
+.userForm form {
+    margin-top: 12px;
+}
+
+.invalidMsg {
+    display: block;
+    color: red;
+    margin-top: 10px;
+}
+
+.validate {
+    color: red !important;
+    display: block;
+}
+
+.title {
+    color: blueviolet;
+}
